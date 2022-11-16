@@ -3,8 +3,6 @@
 - 🔭 Desenvolvedor Web Full Stack
 - 🌱 Atualmente estou me aperfeiçoando a cada dia nas tecnologias que já utilizo
 - ✨ Também tenho interesse em aprender novas tecnologias
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
 
 #### Linguagens e tecnologias que eu utilizo:
 
@@ -29,6 +27,6 @@
 
 <div align="center" style="display: flex">
   <a href="https://github.com/jose-ithalo">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jose-ithalo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-ithalo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" width="45%" src="https://github-readme-stats.vercel.app/api?username=jose-ithalo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-ithalo&layout=compact&langs_count=7&theme=dark"/>
 </div>
