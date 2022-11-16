@@ -27,7 +27,7 @@
 
 <br>
 
-<div>
+<div style="display: inline_flex">
   <a href="https://github.com/jose-ithalo">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jose-ithalo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-ithalo&layout=compact&langs_count=7&theme=dark"/>
