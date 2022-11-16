@@ -8,7 +8,7 @@
 
 #### Linguagens e tecnologias que eu utilizo:
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html5" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Css3" />
@@ -27,7 +27,7 @@
 
 <br>
 
-<div style="display: inline_flex">
+<div align="center">
   <a href="https://github.com/jose-ithalo">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jose-ithalo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-ithalo&layout=compact&langs_count=7&theme=dark"/>
