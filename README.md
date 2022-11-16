@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedor Web Full Stack
 - 🌱 Atualmente estou me aperfeiçoando a cada dia nas tecnologias que já utilizo
-- ✨ Também tenho interesse em aprender novas tecnologias
+- ✨ Também tenho o interesse e disposição para aprender novas tecnologias
 
 #### Linguagens e tecnologias que eu utilizo:
 
