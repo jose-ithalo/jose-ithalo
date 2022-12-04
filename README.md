@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou me aperfeiçoando a cada dia nas tecnologias que já utilizo
 - ✨ Também tenho o interesse e disposição para aprender novas tecnologias
 
-#### Linguagens e tecnologias que eu utilizo:
+#### Linguagens e ferramentas que eu utilizo:
 
 <div align="center" style="display: inline_block"><br>
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" />
