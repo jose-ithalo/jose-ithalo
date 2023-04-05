@@ -1,8 +1,8 @@
 ## Ooii... Seja bem vindo ou bem vinda! 👋🏼
 
 - 🔭 Desenvolvedor Web Full Stack
-- 🌱 Atualmente estou me aperfeiçoando a cada dia nas tecnologias que já utilizo
-- ✨ Também tenho o interesse e disposição para aprender novas tecnologias
+- 🌱 Atualmente estou aprendendo TypeScript e me aperfeiçoando em layouts responsivos
+- ✨ Disposto a vivenciar novas experiências no mundo da programação
 
 #### Linguagens e ferramentas que eu utilizo:
 
