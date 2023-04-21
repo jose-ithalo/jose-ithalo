@@ -1,4 +1,4 @@
-## Ooii... Seja bem vindo ou bem vinda! 👋🏼
+## Seja bem vindo(a)! 👋🏼
 
 - 🔭 Desenvolvedor Web Full Stack
 - 🌱 Atualmente estou aprendendo TypeScript e me aperfeiçoando em layouts responsivos
