@@ -1,7 +1,7 @@
 ## Seja bem vindo(a)! 👋🏼
 
 - 🔭 Desenvolvedor Web Full Stack
-- 🌱 Atualmente estou aprendendo TypeScript, POO e me aperfeiçoando em layouts responsivos
+- 🌱 Atualmente estou aprendendo TypeScript, NestJS e me aperfeiçoando em layouts responsivos
 - ✨ Disposto a vivenciar novas experiências no mundo da programação
 
 #### Linguagens e ferramentas que eu utilizo:
