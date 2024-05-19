@@ -1,7 +1,7 @@
 ## Seja bem vindo(a)! 👋🏼
 
 - 🔭 Desenvolvedor Web Full Stack
-- 🌱 Atualmente estou aprendendo Angular, NestJS, MongoDB e me aperfeiçoando em layouts responsivos
+- 🌱 Atualmente estou aprendendo Angular, NestJS, MongoDB e Sass, além de estar me aperfeiçoando em layouts responsivos
 - ✨ Busco constantemente aprender novas tecnologias
 
 #### Linguagens e ferramentas que eu utilizo:
